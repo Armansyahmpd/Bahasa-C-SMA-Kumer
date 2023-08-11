@@ -3,6 +3,7 @@
 Aktivitas SAP-K11-09: Latihan Karakter dan String
 Buku Siswa IKM Informatika untuk SMA Kelas XI Hal. 52
 Dalam bahasa C, Soal 2
+Membaca sandi, mencetak jumlah karakter berupa angka, huruf, dan simbol. Bedakan huruf kapital, non kapital dan spasi.
 Programmed by : Armansyah, S.Kom, M.Pd
 Guru Informatika SMAN Sumatera Selatan 
 armansyah@smansumsel.sch.id
