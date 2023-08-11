@@ -1,9 +1,8 @@
 /*
 
 Aktivitas SAP-K11-09: Latihan Karakter dan String
-Soal 1
 Buku Siswa IKM Informatika untuk SMA Kelas XI Hal. 52
-Dalam bahasa C
+Dalam bahasa C, Soal 1
 Programmed by : Armansyah, S.Kom, M.Pd
 Guru Informatika SMAN Sumatera Selatan 
 armansyah@smansumsel.sch.id
@@ -13,13 +12,14 @@ Setiap copy-paste dan pengembangan harus mencantumkan informasi HAKI diatas
 
 */
 
+
 #include <stdio.h>
 #include <string.h>
 
 int main() {
     char input[100];
-    printf("Masukkan string atau karakter: ");
-    scanf("%s", input);
+    printf("Masukkan kalimat: ");
+    fgets(input, sizeof(input), stdin);
 
     int len = strlen(input);
 
