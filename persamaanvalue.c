@@ -1,5 +1,8 @@
 /*
 Program Persamaan nilai A dan nilai B 
+Buku Siswa IKM Informatika untuk SMA Kelas X 
+Bab 7 Algoritma dan Pemrograman hal. 172
+a. Struktur Kontrol Keputusan If - Else
 Programmed by : Armansyah, S.Kom, M.Pd
 Guru Informatika SMAN Sumatera Selatan 
 armansyah@smansumsel.sch.id
