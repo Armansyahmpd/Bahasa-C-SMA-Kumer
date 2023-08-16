@@ -1,1 +1,1 @@
-Kumpulan Koding dalam bahasa C berdasar persoalan buku Siswa IKM Kelas X dan kelas XI
+Kumpulan Koding dalam bahasa C berdasar persoalan buku Informatika Siswa SMA Kurikulum Merdeka (IKM) Kelas X dan kelas XI
