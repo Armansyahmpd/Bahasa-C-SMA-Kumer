@@ -17,16 +17,16 @@ int main() {
     int a = 1, b = 2, c = 3;
 
     // Ekspresi 1
-    int hasilEkspresi1 = (a < b) && (b < c);
+    int hasilEkspresi1 = (a < b) || (b > c);
 
     // Ekspresi 2
-    int hasilEkspresi2 = (a == b) || (b == c);
+    int hasilEkspresi2 = (a >= b) || (b != c);
 
     // Ekspresi 3
-    int hasilEkspresi3 = !(a == c);
+    int hasilEkspresi3 = (b == a) && (c > a);
 
     // Ekspresi 4
-    int hasilEkspresi4 = (a + b) >= (c - 1);
+    int hasilEkspresi4 = (b >= a) && (b < c) || (c > a);
 
     // Menampilkan hasil ekspresi
     printf("Hasil Ekspresi 1: %d\n", hasilEkspresi1);
